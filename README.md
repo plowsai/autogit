@@ -5,6 +5,12 @@ This is an experiment to autocommit to github everytime you hit the save key (WI
 
 ```pip install watchdog```
 
+
 ## Run 
 
 ```autogit.py```
+
+
+## Install Locally
+
+```pip install -e```
