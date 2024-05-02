@@ -1,4 +1,5 @@
 from setuptools import setup, find_packages
+from disutils.core import setup
 
 setup(
     name='autocommit',
