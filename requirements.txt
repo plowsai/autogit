@@ -113,7 +113,7 @@ numpy==1.26.4
 oauthlib==3.2.2
 onnxruntime==1.17.1
 open-interpreter==0.2.4
-openai==1.8.0
+openai
 opencv-python==4.9.0.80
 opentelemetry-api==1.24.0
 opentelemetry-exporter-otlp-proto-common==1.24.0
